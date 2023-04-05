@@ -1056,6 +1056,14 @@ nav.sticky{
   opacity: 0.9;
 
 }
+.coloricon{
+  color: white;
+
+}
+.coloricon1{
+  color: white;
+
+}
 
 
 .v6-1{
@@ -1535,7 +1543,8 @@ flex-direction: column;
 
 }
 .pin1-1 p{
-  color: #13005A ;
+  
+  color:#1f1f1f;
   font-size: 35px;
   padding-top: 10px;
   margin-bottom: 0px;
@@ -1569,4 +1578,45 @@ box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 .incars1-2 div:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.fqas1-1{ 
+ 
+ background-color: white;
+  height: 300px;
+  display: flex;
+  align-items: center;
+}
+.infqas1-1{
+  width: 100%;
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.fqas1-2{
+  display: flex;
+  justify-content: center;
+}
+.fqas1-2 p{
+  color:#1f1f1f;
+  font-size: 35px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+.bouttn1-1{
+background-color:transparent;
+  color: white;
+ 
+ border-style: solid;
+ border-radius: 5px;
+ border-color: white;
+ 
+  
+  cursor: pointer;
+  width: 90px;
+  height: 40px;
+}
+.bouttn1-1:hover{
+  background-color: white;
+  border-color: black;
+  
+  color: #1f1f1f;
 }
